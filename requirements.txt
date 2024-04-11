@@ -51,7 +51,7 @@ greenlet==0.4.15
 h5py==2.9.0
 heapdict==1.0.0
 html5lib==1.0.1
-idna==2.8
+idna==3.7
 imageio==2.5.0
 imagesize==1.1.0
 importlib-metadata==0.0.0
