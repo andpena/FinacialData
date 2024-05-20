@@ -149,7 +149,7 @@ pyzmq==18.0.0
 QtAwesome==0.5.7
 qtconsole==4.4.3
 QtPy==1.7.0
-requests==2.21.0
+requests==2.32.0
 rope==0.12.0
 ruamel-yaml==0.15.46
 scikit-image==0.14.2
